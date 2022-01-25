@@ -1,2 +1,2 @@
 # FaceCut
-Facecut is an open source game, where you can take a picture of a person and have to cut of his / her face.
+![FaceCutLogo](https://user-images.githubusercontent.com/83538916/151021851-70802f38-0b1b-4389-a50b-61c0d23f61c4.png)
