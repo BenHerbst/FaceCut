@@ -1,0 +1,19 @@
+repo_name: BenHerbst/FaceCut
+report_id: 8632dd1a4b420819b8ec9f9cb42a48f5
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-18T21:49:35+00:00'
+requested_by: BenHerbst
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
